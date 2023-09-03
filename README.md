@@ -8,10 +8,10 @@ Começaremos nossa jornada examinando a maneira como Python lida com variáveis 
 2.  **Estruturas de Dados:**
 Python oferece diversas estruturas de dados, como listas, tuplas, conjuntos e dicionários, que permitem organizar e manipular informações de maneira eficiente. Vamos explorar como essas estruturas são usadas para armazenar e acessar dados em Python.
 
-3.  **Fluxo Condicional & Repetição:**
+3.  **Fluxo Condicional e Repetição:**
 A capacidade de tomar decisões e repetir ações é crucial na programação. Discutiremos como as instruções de fluxo condicional (como `if`, `elif` e `else`) e estruturas de repetição (como `for` e `while`) permitem controlar o comportamento de um programa.
 
-4.  **Arquivos & Funções:**
+4.  **Arquivos e Funções:**
 Python permite trabalhar com arquivos para leitura e gravação de dados. Além disso, você aprenderá como criar e usar funções para organizar e reutilizar código, tornando seu programa mais modular e fácil de manter.
 
 5.  **Programação Funcional:**
@@ -20,7 +20,7 @@ Python suporta programação funcional, um paradigma que enfatiza funções pura
 6.  **Programação Orientada a Objetos:**
 Python é uma linguagem de programação orientada a objetos, o que significa que você pode criar classes e objetos para organizar e encapsular dados e comportamentos. Vamos explorar como a programação orientada a objetos é aplicada em Python.
 
-7.  **Módulos & Pacotes:**
+7.  **Módulos e Pacotes:**
 Python possui uma rica biblioteca de módulos e pacotes que estendem suas funcionalidades. Você aprenderá como importar e usar esses recursos adicionais para ampliar a funcionalidade de seus programas.
 
 8.  **Tratamento de Erros:**
